@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:resource xmlns:arch="http://ochre.lib.uchicago.edu/schema/Resource/Resource.xsd" xmlns:oc="http://opencontext.org/schema/resource_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="87EB8F88-A132-47EF-7816-BC077DC3929A" ownedBy="3F6DCD13-A476-488E-ED10-47D25513FCB2" type="image">
+  <arch:name>
+    <arch:string>12_57</arch:string>
+  </arch:name>
+  <arch:links>
+    <arch:docID type="spatialUnit" info="link">A8188983-A4BB-47F4-2B99-0E79D7EFE6EB</arch:docID>
+    <arch:docID type="spatialUnit" info="link">D5582F88-DC1D-4486-1D6E-C1F1B4A343CC</arch:docID>
+    <oc:space_links>
+      <oc:link href="http://opencontext.org/subjects/A8188983-A4BB-47F4-2B99-0E79D7EFE6EB">
+        <oc:name>Artifact 12.57</oc:name>
+        <oc:id>A8188983-A4BB-47F4-2B99-0E79D7EFE6EB</oc:id>
+        <oc:relation>link</oc:relation>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/67D9F00D-14E6-4A1B-3A61-EC92FC774098">
+              <oc:name>Cyprus</oc:name>
+              <oc:id>67D9F00D-14E6-4A1B-3A61-EC92FC774098</oc:id>
+              <oc:level>5</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953">
+              <oc:name>PKAP Survey Area</oc:name>
+              <oc:id>48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953</oc:id>
+              <oc:level>4</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/6EC56A96-97CB-4FCB-B92A-3B47FCEC9BEF">
+              <oc:name>Koutsopetria - Paleokastro</oc:name>
+              <oc:id>6EC56A96-97CB-4FCB-B92A-3B47FCEC9BEF</oc:id>
+              <oc:level>3</oc:level>
+              <oc:item_class>
+                <oc:name>Area</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/1F1B9C45-2826-41B2-57CA-F07E3AB0212F">
+              <oc:name>Unit 12</oc:name>
+              <oc:id>1F1B9C45-2826-41B2-57CA-F07E3AB0212F</oc:id>
+              <oc:level>2</oc:level>
+              <oc:item_class>
+                <oc:name>Survey Unit</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/D5582F88-DC1D-4486-1D6E-C1F1B4A343CC">
+              <oc:name>Batch 57</oc:name>
+              <oc:id>D5582F88-DC1D-4486-1D6E-C1F1B4A343CC</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Sample</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/D5582F88-DC1D-4486-1D6E-C1F1B4A343CC">
+        <oc:name>Batch 57</oc:name>
+        <oc:id>D5582F88-DC1D-4486-1D6E-C1F1B4A343CC</oc:id>
+        <oc:relation>link</oc:relation>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/67D9F00D-14E6-4A1B-3A61-EC92FC774098">
+              <oc:name>Cyprus</oc:name>
+              <oc:id>67D9F00D-14E6-4A1B-3A61-EC92FC774098</oc:id>
+              <oc:level>4</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953">
+              <oc:name>PKAP Survey Area</oc:name>
+              <oc:id>48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953</oc:id>
+              <oc:level>3</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/6EC56A96-97CB-4FCB-B92A-3B47FCEC9BEF">
+              <oc:name>Koutsopetria - Paleokastro</oc:name>
+              <oc:id>6EC56A96-97CB-4FCB-B92A-3B47FCEC9BEF</oc:id>
+              <oc:level>2</oc:level>
+              <oc:item_class>
+                <oc:name>Area</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/1F1B9C45-2826-41B2-57CA-F07E3AB0212F">
+              <oc:name>Unit 12</oc:name>
+              <oc:id>1F1B9C45-2826-41B2-57CA-F07E3AB0212F</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Survey Unit</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+    </oc:space_links>
+  </arch:links>
+  <arch:content>
+    <arch:externalFileInfo>
+      <arch:fileFormat>image/jpeg</arch:fileFormat>
+      <oc:FileInfo>
+        <oc:ImageSize>3145728</oc:ImageSize>
+        <oc:FileSize ReadSize="980.41 KB">1003943</oc:FileSize>
+        <oc:FileName>12_57.jpg</oc:FileName>
+      </oc:FileInfo>
+      <arch:resourceURI>http://artiraq.org/static/opencontext/pkap-cyprus/full/artifacts-3/12_57.jpg</arch:resourceURI>
+      <arch:previewURI>http://artiraq.org/static/opencontext/pkap-cyprus/preview/artifacts-3/12_57.jpg</arch:previewURI>
+      <arch:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/artifacts-3/12_57.jpg</arch:thumbnailURI>
+    </arch:externalFileInfo>
+  </arch:content>
+  <oc:metadata>
+    <dc:title>Pyla-Koutsopetria Archaeological Project: 12_57</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-10-25</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>survey</dc:subject>
+    <dc:subject>Cyprus</dc:subject>
+    <dc:subject>classical</dc:subject>
+    <dc:subject>Cypriot</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Hellenistic</dc:subject>
+    <dc:subject>Bronze Age</dc:subject>
+    <dc:subject>landscape</dc:subject>
+    <dc:subject>settlment</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/8C74D664-03DC-43C1-64EC-2FFC019FCB26">William R. Caraher</dc:creator>
+    <dc:identifier>http://opencontext.org/media/87EB8F88-A132-47EF-7816-BC077DC3929A</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2">Pyla-Koutsopetria Archaeological Project</oc:project_name>
+    <oc:pub_date>2013-10-25T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Pyla-Koutsopetria+Archaeological+Project%3A+12_57&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=survey&amp;rft.subject=Cyprus&amp;rft.subject=classical&amp;rft.subject=Cypriot&amp;rft.subject=Roman&amp;rft.subject=Hellenistic&amp;rft.subject=Bronze+Age&amp;rft.subject=landscape&amp;rft.subject=settlment&amp;rft.creator=William+R.+Caraher&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fmedia%2F87EB8F88-A132-47EF-7816-BC077DC3929A</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>34.981441641143</oc:geo_lat>
+      <oc:geo_long>33.707312559704</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1F1B9C45-2826-41B2-57CA-F07E3AB0212F">
+        <oc:source_name>Unit 12</oc:source_name>
+        <oc:source_id>1F1B9C45-2826-41B2-57CA-F07E3AB0212F</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-11-05T09:45:22-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/11/05 09:45:22</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(300 CE - 749 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>300</oc:time_start>
+          <oc:time_finish>749</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/D5582F88-DC1D-4486-1D6E-C1F1B4A343CC">
+            <oc:source_name>Batch 57</oc:source_name>
+            <oc:source_id>D5582F88-DC1D-4486-1D6E-C1F1B4A343CC</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-11-04T10:32:49-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:resource>

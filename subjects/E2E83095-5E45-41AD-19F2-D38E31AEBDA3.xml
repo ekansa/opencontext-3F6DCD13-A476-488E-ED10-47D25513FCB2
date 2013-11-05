@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="E2E83095-5E45-41AD-19F2-D38E31AEBDA3" ownedBy="3F6DCD13-A476-488E-ED10-47D25513FCB2">
+  <arch:name>
+    <arch:string>Artifact 84.10</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Objects</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_4_dcc5ea1c0</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>55BBA93A-E2C0-41D6-1F5C-033D65767701</arch:variableID>
+          <arch:valueID>33A0E632-27AF-49EF-FA3B-566AC6F44906</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/EE79EF08-8185-40B0-1B5E-086ECA40872B">EE79EF08-8185-40B0-1B5E-086ECA40872B</oc:propid>
+          <oc:var_label type="alphanumeric">Description Shape</oc:var_label>
+          <oc:show_val>Vertical double rolled handle (bifed)</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>254EDD19-8E1E-4E09-FF38-0558C36B5E8E</arch:variableID>
+          <arch:valueID>3EDFA7A9-89B6-49AC-9F78-2562CF9359C8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6A77C77E-24F6-4F49-E961-4F419353A0AA">6A77C77E-24F6-4F49-E961-4F419353A0AA</oc:propid>
+          <oc:var_label type="alphanumeric">Description Fabric</oc:var_label>
+          <oc:show_val>Coarse orange fabric with white and black sub-rounded stones, few in number.  Some mica present.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D7C8D3B9-6D33-42CB-27E5-B8C187366D03</arch:variableID>
+          <arch:valueID>18CBCBB1-95BB-491E-A3C9-0C9ED204264A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7BBC55A5-A5B7-4D07-D1BD-ABAC83DFF115">7BBC55A5-A5B7-4D07-D1BD-ABAC83DFF115</oc:propid>
+          <oc:var_label type="alphanumeric">Ct</oc:var_label>
+          <oc:show_val>AMKO</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3DB3103C-A6C3-4E5E-6219-0F13E880B3E1</arch:variableID>
+          <arch:valueID>5F75D21B-1D4E-4280-2A3B-8935FCA6FC3B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/14DAFBB8-B779-4F6A-8DD3-28D46EAB18A2">14DAFBB8-B779-4F6A-8DD3-28D46EAB18A2</oc:propid>
+          <oc:var_label type="alphanumeric">Description Decoration</oc:var_label>
+          <oc:show_val>Pale yellow slip.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>ACB13E00-BD95-4715-122C-FC2C9D18239F</arch:variableID>
+          <arch:valueID>9BDD0EB8-26C9-43DE-D475-8E1E98045F9F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/67FAA6B7-5E4A-42BB-54E5-B000DB32BB9C">67FAA6B7-5E4A-42BB-54E5-B000DB32BB9C</oc:propid>
+          <oc:var_label type="alphanumeric">Munsell</oc:var_label>
+          <oc:show_val>Fabric = 2.5 YR 6/6; Slip = 10 YR 8/3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8E555587-B12A-4FA5-6E6A-3791AA7CDFA1</arch:variableID>
+          <arch:valueID>69B2C124-A5B6-4C65-7043-C5D0D737197A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0D3DFA39-DEDD-429B-9A14-4A3CEE417DF6">0D3DFA39-DEDD-429B-9A14-4A3CEE417DF6</oc:propid>
+          <oc:var_label type="alphanumeric">Dimensions</oc:var_label>
+          <oc:show_val>L = 0.088; W = 0.061; Weight = 84.1g</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>13D92295-65EA-47F7-EBF2-56C7667C6E5F</arch:variableID>
+          <arch:valueID>B0FBB91A-9B5C-4D9B-39EB-17051A2F0A23</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2DC03393-CB37-4967-EF0A-CFEF54923C43">2DC03393-CB37-4967-EF0A-CFEF54923C43</oc:propid>
+          <oc:var_label type="alphanumeric">Chronotype</oc:var_label>
+          <oc:show_val>Amphora, Koan-type</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">7C622A85-6F1F-4B4E-7BF9-C844AD8C9EB7</arch:docID>
+        <arch:docID type="resource" info="link">1C1765C0-0F66-4281-A2B5-93BAC28D9D2C</arch:docID>
+        <arch:docID type="resource" info="link">038120FA-23E3-4B42-6134-BD036F48E3D6</arch:docID>
+        <arch:docID type="resource" info="link">F78EE569-E55F-4DC1-509F-C1E1D167C52D</arch:docID>
+        <arch:docID type="resource" info="link">6A08B1FC-E78C-4459-FBD5-A77992345B65</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/7C622A85-6F1F-4B4E-7BF9-C844AD8C9EB7">
+            <oc:name>84_10</oc:name>
+            <oc:id>7C622A85-6F1F-4B4E-7BF9-C844AD8C9EB7</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type/>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/artifacts-1/84_10.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/1C1765C0-0F66-4281-A2B5-93BAC28D9D2C">
+            <oc:name>84_10[2]</oc:name>
+            <oc:id>1C1765C0-0F66-4281-A2B5-93BAC28D9D2C</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type/>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/artifacts-1/84_10[2].JPG</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/038120FA-23E3-4B42-6134-BD036F48E3D6">
+            <oc:name>84_10[3]</oc:name>
+            <oc:id>038120FA-23E3-4B42-6134-BD036F48E3D6</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type/>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/artifacts-1/84_10[3].JPG</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/F78EE569-E55F-4DC1-509F-C1E1D167C52D">
+            <oc:name>84_10[4]</oc:name>
+            <oc:id>F78EE569-E55F-4DC1-509F-C1E1D167C52D</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type/>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/artifacts-1/84_10[4].JPG</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/6A08B1FC-E78C-4459-FBD5-A77992345B65">
+            <oc:name>84_10[5]</oc:name>
+            <oc:id>6A08B1FC-E78C-4459-FBD5-A77992345B65</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type/>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/artifacts-1/84_10[5].jpg</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <div>
+<p>The cataloguer first recorded basic measurements of the sherd, and then a detailed description of the artifact (Shape, Munsell color, Inclusions, etc.). We based our descriptions on standard descriptions employed by the American School of Classical Studies Excavations at Corinth (Corinth Excavation Handbook). We recorded this information on a paper form and later keyed it intoa Microsoft Access database. We scanned these forms and archived the paper copy at the University of North Dakota.</p>
+</div>
+            </div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/67D9F00D-14E6-4A1B-3A61-EC92FC774098">
+        <oc:name>Cyprus</oc:name>
+        <oc:id>67D9F00D-14E6-4A1B-3A61-EC92FC774098</oc:id>
+        <oc:level>5</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953">
+        <oc:name>PKAP Survey Area</oc:name>
+        <oc:id>48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/CEAE5959-D950-45CB-A61F-ADBDAF28268B">
+        <oc:name>Paleokastro</oc:name>
+        <oc:id>CEAE5959-D950-45CB-A61F-ADBDAF28268B</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/2B697D16-B333-4906-4C5D-A5D54225C251">
+        <oc:name>Unit 84</oc:name>
+        <oc:id>2B697D16-B333-4906-4C5D-A5D54225C251</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/A443F4C5-1802-4FEA-E9B6-26C46748EB95">
+        <oc:name>Batch 10</oc:name>
+        <oc:id>A443F4C5-1802-4FEA-E9B6-26C46748EB95</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Pyla-Koutsopetria Archaeological Project: Artifact 84.10 (Objects)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-10-25</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>survey</dc:subject>
+    <dc:subject>Cyprus</dc:subject>
+    <dc:subject>classical</dc:subject>
+    <dc:subject>Cypriot</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Hellenistic</dc:subject>
+    <dc:subject>Bronze Age</dc:subject>
+    <dc:subject>landscape</dc:subject>
+    <dc:subject>settlment</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/8C74D664-03DC-43C1-64EC-2FFC019FCB26">William R. Caraher</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/E2E83095-5E45-41AD-19F2-D38E31AEBDA3</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2">Pyla-Koutsopetria Archaeological Project</oc:project_name>
+    <oc:pub_date>2013-10-25T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Pyla-Koutsopetria+Archaeological+Project%3A+Artifact+84.10+%28Objects%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=survey&amp;rft.subject=Cyprus&amp;rft.subject=classical&amp;rft.subject=Cypriot&amp;rft.subject=Roman&amp;rft.subject=Hellenistic&amp;rft.subject=Bronze+Age&amp;rft.subject=landscape&amp;rft.subject=settlment&amp;rft.creator=William+R.+Caraher&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FE2E83095-5E45-41AD-19F2-D38E31AEBDA3</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>34.98256656997</oc:geo_lat>
+      <oc:geo_long>33.704675139536</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/2B697D16-B333-4906-4C5D-A5D54225C251">
+        <oc:source_name>Unit 84</oc:source_name>
+        <oc:source_id>2B697D16-B333-4906-4C5D-A5D54225C251</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-11-05T09:37:03-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/11/05 09:37:03</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(99 BCE - 299 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-99</oc:time_start>
+          <oc:time_finish>299</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/A443F4C5-1802-4FEA-E9B6-26C46748EB95">
+            <oc:source_name>Batch 10</oc:source_name>
+            <oc:source_id>A443F4C5-1802-4FEA-E9B6-26C46748EB95</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-11-04T10:32:46-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="DAD5462C-3440-4DAC-E4BE-DD5AEDC1B4DC" ownedBy="3F6DCD13-A476-488E-ED10-47D25513FCB2">
+  <arch:name>
+    <arch:string>Unit 5</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Survey Unit</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_40x40.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_4_ede3de548</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>AE7CCE15-FFFF-4AA2-5640-7D86B6464214</arch:variableID>
+          <arch:valueID>7400ED2A-A667-4B66-34F7-873F5A0F9E1C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1564DAC2-10D7-4DB5-80F2-E82A0333CD33">1564DAC2-10D7-4DB5-80F2-E82A0333CD33</oc:propid>
+          <oc:var_label type="calendric">Date</oc:var_label>
+          <oc:show_val>2004-06-18</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A4965027-8B3F-4FD2-65CC-5996B894A5DF</arch:variableID>
+          <arch:valueID>A1EBC965-B582-45FF-116C-1DFF7A107A09</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/FF5FFBA6-1C86-4DB0-617F-C9BD8CB7A412">FF5FFBA6-1C86-4DB0-617F-C9BD8CB7A412</oc:propid>
+          <oc:var_label type="nominal">Recorder</oc:var_label>
+          <oc:show_val>DKP</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BD3AFB9A-279C-408A-E15C-D15A3A138E7F</arch:variableID>
+          <arch:valueID>E332693E-396C-4364-AE54-7832E3C3083E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3296BF4B-4F29-460F-3132-E4280F75D0BE">3296BF4B-4F29-460F-3132-E4280F75D0BE</oc:propid>
+          <oc:var_label type="calendric">Start Time</oc:var_label>
+          <oc:show_val>09:50:00</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>01BC6A66-BB93-4DB9-1B8D-6A5DBE490207</arch:variableID>
+          <arch:valueID>4B341925-BBA7-4E3F-DC21-B53C923F0E7C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B88D0F51-289D-4D5D-FA23-018B67036F9E">B88D0F51-289D-4D5D-FA23-018B67036F9E</oc:propid>
+          <oc:var_label type="calendric">End Time</oc:var_label>
+          <oc:show_val>10:00:00</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AADD6660-BA8C-4317-AC9C-160211A30A3E</arch:variableID>
+          <arch:valueID>06ED3A2A-F13F-4232-9AEB-E450E5C30E5D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2912FED4-02EA-4666-56ED-F261F4FBB025">2912FED4-02EA-4666-56ED-F261F4FBB025</oc:propid>
+          <oc:var_label type="alphanumeric">Start Time (date)</oc:var_label>
+          <oc:show_val>2004-06-18:09:50:00</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>ADFF11EA-623B-4AB8-7BF1-EC999A62D829</arch:variableID>
+          <arch:valueID>35C95D8E-1B6A-403C-04DC-6BB8C4A7231B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B62CDB07-603C-4745-6FB3-DDC86FE9EA3D">B62CDB07-603C-4745-6FB3-DDC86FE9EA3D</oc:propid>
+          <oc:var_label type="alphanumeric">End Time (date)</oc:var_label>
+          <oc:show_val>2004-06-18:10:00:00</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F15CC243-5F37-49E1-E1DC-A288494EE536</arch:variableID>
+          <arch:valueID>8264693A-056C-49F9-70FF-EC7FFA2BC88D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B978F873-6AF7-4E6D-35CA-FC840EC1E7D4">B978F873-6AF7-4E6D-35CA-FC840EC1E7D4</oc:propid>
+          <oc:var_label type="nominal">Area or Toponym</oc:var_label>
+          <oc:show_val>Koutsopetria/Paleokastro</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A632E109-4BB4-419E-EF5F-9085220D09B6</arch:variableID>
+          <arch:valueID>367CF80B-A080-49EC-053A-3EF0082802D3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3019D8A2-BC70-4BFB-A34D-C41AEAB5ADF1">3019D8A2-BC70-4BFB-A34D-C41AEAB5ADF1</oc:propid>
+          <oc:var_label type="alphanumeric">Location and Description</oc:var_label>
+          <oc:show_val>A fifth unit in grain stubble field; bordered on west by unit 4; on S. by low wall of rocks and building material; covered by weeds.  Unit slopes down on west end then back up on east end toward REM building.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>60CE6BFF-3572-4501-F5B9-560767361002</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5DA049A2-96B8-41B8-FD09-E2B723B16D33">5DA049A2-96B8-41B8-FD09-E2B723B16D33</oc:propid>
+          <oc:var_label type="boolean">Evergreens</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>023B74E7-2734-4736-4728-45C4847C8510</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CF6D5819-41D3-476C-D4FF-1ADB97414AFC">CF6D5819-41D3-476C-D4FF-1ADB97414AFC</oc:propid>
+          <oc:var_label type="boolean">Decidiuous</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F9ED629E-1941-4020-B192-DBFFA3CEB661</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/49492700-D61D-46AB-9DB5-B147698ECE01">49492700-D61D-46AB-9DB5-B147698ECE01</oc:propid>
+          <oc:var_label type="boolean">Scrub or Phrygana</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4B2A9DB0-2200-4A7E-90DB-6B253300CDE8</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E3D1B24A-8260-4A44-AE99-38F09A5C6C99">E3D1B24A-8260-4A44-AE99-38F09A5C6C99</oc:propid>
+          <oc:var_label type="boolean">Maquis</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CCC95950-2CE7-46DD-B7D1-30F9ABEF77CD</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/64244E13-BC81-4AC7-9A79-9B93B0F05F9C">64244E13-BC81-4AC7-9A79-9B93B0F05F9C</oc:propid>
+          <oc:var_label type="boolean">Grass or Weeds</oc:var_label>
+          <oc:show_val>true</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5FF19842-7999-43CE-90DC-901C815DC2BB</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1C38B7E4-D95E-4ADA-0DFB-821A456C5373">1C38B7E4-D95E-4ADA-0DFB-821A456C5373</oc:propid>
+          <oc:var_label type="boolean">Barren</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>26F2C4E1-71AB-460C-40E6-16F567FC7299</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A3A42F29-885A-476F-546E-93A2A6C19FAB">A3A42F29-885A-476F-546E-93A2A6C19FAB</oc:propid>
+          <oc:var_label type="boolean">General Info Legal and Standard Other</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C6B30AFD-830A-4117-2138-2B97F7D2B43B</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5A6086CB-8F10-4E72-E977-4B6873064711">5A6086CB-8F10-4E72-E977-4B6873064711</oc:propid>
+          <oc:var_label type="boolean">Olives</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6C8B2ABF-6F25-4AAC-B837-E30847E31F9B</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AD5E90C9-EBC1-4D3F-CD57-EAC78FD37EF7">AD5E90C9-EBC1-4D3F-CD57-EAC78FD37EF7</oc:propid>
+          <oc:var_label type="boolean">Vineyard</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A1CAD306-D2C4-4EF0-8DAE-809F608F21B5</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/78681113-37F9-4766-9892-BFB2AF916988">78681113-37F9-4766-9892-BFB2AF916988</oc:propid>
+          <oc:var_label type="boolean">Citrus</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7EF71014-D53A-4A52-BF5D-51BF78CF3565</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/53B63AE1-4AF6-470A-F9AB-9FBAAAEF4CA0">53B63AE1-4AF6-470A-F9AB-9FBAAAEF4CA0</oc:propid>
+          <oc:var_label type="boolean">Apricot</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AD7ED87C-22AF-4192-30BD-BD4B1263F026</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/61F9EAD8-D5C4-45FA-6A76-746BD60EB933">61F9EAD8-D5C4-45FA-6A76-746BD60EB933</oc:propid>
+          <oc:var_label type="boolean">Almonds</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>78A3910B-C1B4-4014-8D67-03218C7E39BA</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/BE7B4319-1766-4726-6DDD-52AB02A02FD6">BE7B4319-1766-4726-6DDD-52AB02A02FD6</oc:propid>
+          <oc:var_label type="boolean">Other Orchard/grove</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F2451B37-003A-49EE-8443-FE9873C71B2B</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9E27CA37-ECBF-40E9-7DC3-CBA663948C52">9E27CA37-ECBF-40E9-7DC3-CBA663948C52</oc:propid>
+          <oc:var_label type="boolean">Vegetation, Small-leafed</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>68EA040C-2868-4AD6-C3DC-66A6EBD37C5F</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/862933FF-94CA-4371-EA0C-9441EA063179">862933FF-94CA-4371-EA0C-9441EA063179</oc:propid>
+          <oc:var_label type="boolean">Veg, Broad-leafed</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>10D3CDD1-DC9D-4717-BB96-56DDC919EC74</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6A03E144-100E-4DA6-3F8D-13422D1D181F">6A03E144-100E-4DA6-3F8D-13422D1D181F</oc:propid>
+          <oc:var_label type="boolean">Greens</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7A11CDC6-9909-4543-DF9D-06EF96042187</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9E82A998-E013-423F-824A-4F07C66B2C6C">9E82A998-E013-423F-824A-4F07C66B2C6C</oc:propid>
+          <oc:var_label type="boolean">Grain</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>ED1CE22D-47D7-4CA1-5712-7AEB64B956AD</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/3870CB06-85CA-4D48-64D8-03FC7C6C0CA7">3870CB06-85CA-4D48-64D8-03FC7C6C0CA7</oc:propid>
+          <oc:var_label type="boolean">Grain Stubble</oc:var_label>
+          <oc:show_val>true</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>27249ED6-CC08-4225-EA99-250B78C69DC7</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/FC6C783A-8962-47AD-CA66-4F63ED7E0DB7">FC6C783A-8962-47AD-CA66-4F63ED7E0DB7</oc:propid>
+          <oc:var_label type="boolean">Kalamboki</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BE2CB8C1-FDEB-4D40-3DB6-F793360C43FA</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/37774DA2-63E7-4560-79E6-EDC6287C83BD">37774DA2-63E7-4560-79E6-EDC6287C83BD</oc:propid>
+          <oc:var_label type="boolean">Other Vegetation</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B3562F49-8769-4DD5-A63E-482269C3D5AC</arch:variableID>
+          <arch:valueID>D10830A3-1F15-4705-6F05-7DF767899A11</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B6E97AFC-A1FC-4434-24F6-851953DFF28A">B6E97AFC-A1FC-4434-24F6-851953DFF28A</oc:propid>
+          <oc:var_label type="nominal">Dominant Vegetation Height</oc:var_label>
+          <oc:show_val>&lt;= ankle</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8A001320-6BCF-4FCF-BA01-FD9758DA82E7</arch:variableID>
+          <arch:integer>40</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/4DB7D869-1DA8-433D-241A-FAE31BCEC570">4DB7D869-1DA8-433D-241A-FAE31BCEC570</oc:propid>
+          <oc:var_label type="integer">Percent Visible</oc:var_label>
+          <oc:show_val>40</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3319F96F-1090-4CD9-8ABB-35F40C388E71</arch:variableID>
+          <arch:valueID>73754EAD-4DC5-47B6-794C-6A285B2BCD01</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6444420F-9066-4A76-3435-30DB8E2D4287">6444420F-9066-4A76-3435-30DB8E2D4287</oc:propid>
+          <oc:var_label type="alphanumeric">Comments</oc:var_label>
+          <oc:show_val>Grain stubble w/ weed along S. end alongfg line of stones and weed over ruined building</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B78D18B7-81FF-4EE7-9187-6797B3A64A66</arch:variableID>
+          <arch:valueID>5A265390-C463-46AC-5C62-A82448978115</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4A229651-C0CB-4661-5520-F02AEDBED5D4">4A229651-C0CB-4661-5520-F02AEDBED5D4</oc:propid>
+          <oc:var_label type="nominal">Farm</oc:var_label>
+          <oc:show_val>Plowed</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B1ED1734-87FA-4BF6-B91D-D63D0B658BAD</arch:variableID>
+          <arch:valueID>9205B5E9-7284-4A7F-A29A-B26559DFE1A4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7BDD67FD-3B8A-43DF-5FCB-B1188F822346">7BDD67FD-3B8A-43DF-5FCB-B1188F822346</oc:propid>
+          <oc:var_label type="nominal">Soil</oc:var_label>
+          <oc:show_val>Compacted</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>182D76AF-174E-4B8D-146D-A5AE5283EE9C</arch:variableID>
+          <arch:valueID>257770AC-998B-4018-F693-4E6FD6401C06</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C0C3B3FF-87BB-4EFD-38F5-71C5C0788F92">C0C3B3FF-87BB-4EFD-38F5-71C5C0788F92</oc:propid>
+          <oc:var_label type="nominal">Background Disturbance</oc:var_label>
+          <oc:show_val>Moderate</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B5F34A98-DDCD-4B5B-DD28-37F642B9BCA3</arch:variableID>
+          <arch:valueID>18DC8CAD-420F-4E77-22B3-165C840807CA</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/ABEEB353-833E-4AEC-5760-A5B505ADB90E">ABEEB353-833E-4AEC-5760-A5B505ADB90E</oc:propid>
+          <oc:var_label type="nominal">Sherd Crusting</oc:var_label>
+          <oc:show_val>Light</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0C4CCB40-87E2-472D-01CE-26E3B7A5502D</arch:variableID>
+          <arch:valueID>E98937BE-2872-4603-F2C6-F6B64DF3275A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4AEBF291-7366-4552-1BAB-1CED0AE8855E">4AEBF291-7366-4552-1BAB-1CED0AE8855E</oc:propid>
+          <oc:var_label type="nominal">Surface Clast Size</oc:var_label>
+          <oc:show_val>Coarse Gravel (75-19mm)</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E9864EB5-54AA-4505-1D30-9E3FB965E77F</arch:variableID>
+          <arch:valueID>54B3EC69-8E5D-4486-EEE8-A53803AD01E7</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/EE9F9AFA-7DF9-4B91-1B2F-39AC5EFE6B77">EE9F9AFA-7DF9-4B91-1B2F-39AC5EFE6B77</oc:propid>
+          <oc:var_label type="alphanumeric">Comments (field)</oc:var_label>
+          <oc:show_val>Building material forms some of surface clast
+
+FEATURES Aline of stone/rocks (1.5 m high) a building material on S. end.  The remains of an ancient building form area (uncultivated) in E. end ; including in laid brick and laid mortar</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1A1E7A6F-A016-4CBB-22E8-AF9B47C668F9</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/meter" name="meter" abrv="m">10</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/12220E42-93E2-4662-D742-C1CC7138CDA8">12220E42-93E2-4662-D742-C1CC7138CDA8</oc:propid>
+          <oc:var_label type="integer">Walker Spacing</oc:var_label>
+          <oc:show_val>10</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E9E7C394-44CE-48B9-1D39-37B902D3060B</arch:variableID>
+          <arch:decimal>86</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/3BA537D4-AF7E-4E12-DD16-0027A0CBE5A9">3BA537D4-AF7E-4E12-DD16-0027A0CBE5A9</oc:propid>
+          <oc:var_label type="decimal">Bearing</oc:var_label>
+          <oc:show_val>86</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B21FA28C-060D-4C25-C4DC-8CD7A03DB97F</arch:variableID>
+          <arch:valueID>69F1BDD3-2E43-4E57-0101-46FC1249FD92</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9AD25103-C156-41D3-393A-4F899D157298">9AD25103-C156-41D3-393A-4F899D157298</oc:propid>
+          <oc:var_label type="nominal">Direction From</oc:var_label>
+          <oc:show_val>South</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>48C73825-E195-4CD4-EB06-5966C5459D8A</arch:variableID>
+          <arch:valueID>85AB1B2D-4E9B-4CB0-FA38-978A9C37B390</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B22AF3C8-B229-4EFA-B782-48C86117CBD4">B22AF3C8-B229-4EFA-B782-48C86117CBD4</oc:propid>
+          <oc:var_label type="nominal">General Survey Comments</oc:var_label>
+          <oc:show_val>KME ; BPW other = Mortar     SRF other = gypsum ; mortar ; cut stone; andesite</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BC9C94E6-C472-43DE-9D30-4F971C1B9E5F</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">2</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/1293770E-2017-48BC-2199-371899AD06DD">1293770E-2017-48BC-2199-371899AD06DD</oc:propid>
+          <oc:var_label type="decimal">Number of Bags</oc:var_label>
+          <oc:show_val>2</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D067AF16-7E26-4640-FCC3-639D7FE364FD</arch:variableID>
+          <arch:valueID>18AE03EB-A277-400D-6172-A60AD38B1345</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8E93D96B-D6B1-481D-C0F6-0E8EBFA5A457">8E93D96B-D6B1-481D-C0F6-0E8EBFA5A457</oc:propid>
+          <oc:var_label type="nominal">Survey Type</oc:var_label>
+          <oc:show_val>Standard</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E27DF239-F1BD-49CF-CC5C-3E79C3F4EAA8</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/429DE49B-43EB-4B38-DF04-A697911CAEA3">429DE49B-43EB-4B38-DF04-A697911CAEA3</oc:propid>
+          <oc:var_label type="boolean">Digital</oc:var_label>
+          <oc:show_val>true</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A9F414A1-4A49-4A47-1138-165E8B05DD77</arch:variableID>
+          <arch:valueID>6C04EA80-DFBE-419B-9AE9-5F169485219C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/735DC9B7-964B-4A15-79BE-E97837AC611E">735DC9B7-964B-4A15-79BE-E97837AC611E</oc:propid>
+          <oc:var_label type="boolean">Color</oc:var_label>
+          <oc:show_val>false</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0C287870-4D35-49F8-6D1A-84CD15BA4D7B</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">291</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/4321CC7B-607E-4850-1943-96A4336EAE54">4321CC7B-607E-4850-1943-96A4336EAE54</oc:propid>
+          <oc:var_label type="integer">Total object (count)</oc:var_label>
+          <oc:show_val>291</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8369AEC1-1771-46CD-A414-FA8DC23DB5F2</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">122</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/D27A956D-0E3D-4A7E-3AEC-C1E151D8433C">D27A956D-0E3D-4A7E-3AEC-C1E151D8433C</oc:propid>
+          <oc:var_label type="integer">Sherds</oc:var_label>
+          <oc:show_val>122</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>83AC4E71-98A1-4128-26C0-73544784CFB6</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">136</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/034292B0-1FD4-4730-1768-C0F065DBE34C">034292B0-1FD4-4730-1768-C0F065DBE34C</oc:propid>
+          <oc:var_label type="integer">Tiles</oc:var_label>
+          <oc:show_val>136</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F2D0556A-FCEE-455A-75F9-88489C5CA2A8</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">0</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/A20D2BA4-5D49-4ACB-0913-2D493EFB48FE">A20D2BA4-5D49-4ACB-0913-2D493EFB48FE</oc:propid>
+          <oc:var_label type="integer">Lithics</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D619D7F4-4F8C-41BA-C4FC-C5D4A5C72C0D</arch:variableID>
+          <arch:integer>33</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/947D90B8-C7F7-4B87-65BB-518A6E217F9E">947D90B8-C7F7-4B87-65BB-518A6E217F9E</oc:propid>
+          <oc:var_label type="integer">Surveyunits Area Other</oc:var_label>
+          <oc:show_val>33</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BDDBE5AE-3376-403D-2773-353458FA4085</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">258</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/076B916C-D51B-4591-F27D-EA3CEC8C5756">076B916C-D51B-4591-F27D-EA3CEC8C5756</oc:propid>
+          <oc:var_label type="integer">Ceramics</oc:var_label>
+          <oc:show_val>258</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5584EB85-85C6-4D29-BFFC-3FE988B77CE2</arch:variableID>
+          <arch:decimal>8062.5</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/22E30184-A40D-4377-3340-6CC39628A86F">22E30184-A40D-4377-3340-6CC39628A86F</oc:propid>
+          <oc:var_label type="decimal">Ceramic density</oc:var_label>
+          <oc:show_val>8062.5</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1B58808D-33BA-4E25-F1E1-95421CF1EBAC</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/square_meter" name="square meter" abrv="m&lt;sup&gt;2&lt;/s">320</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/4D60470D-103E-4358-E7F6-562B46DE41F7">4D60470D-103E-4358-E7F6-562B46DE41F7</oc:propid>
+          <oc:var_label type="decimal">Area walked</oc:var_label>
+          <oc:show_val>320</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>580080CC-49E3-4E6C-185F-6E45E78493E6</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/square_meter" name="square meter" abrv="m&lt;sup&gt;2&lt;/s">1600</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/B98B4779-1EA8-4BA7-657A-F112A61299EE">B98B4779-1EA8-4BA7-657A-F112A61299EE</oc:propid>
+          <oc:var_label type="decimal">Unit area</oc:var_label>
+          <oc:show_val>1600</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">62F0D451-706A-4C97-8F38-EEB486E1B6C8</arch:docID>
+        <arch:docID type="resource" info="link">9D6AC522-62EB-479F-69BE-3008C08A7B8F</arch:docID>
+        <arch:docID type="resource" info="link">7D44CE83-648E-4F43-0DFF-B9A2007CBD1F</arch:docID>
+        <arch:docID type="resource" info="link">70618302-BE7A-45CD-3659-D37D9BC9DEED</arch:docID>
+        <arch:docID type="resource" info="link">81D6C1D1-7325-473F-F9FF-A88813606D02</arch:docID>
+        <arch:docID type="resource" info="link">D8C85C09-0EC5-4501-D2F9-21E2B7439E4F</arch:docID>
+        <arch:docID type="resource" info="link">8182764B-27DB-4AC9-92B5-F4E59F347860</arch:docID>
+        <arch:docID type="person" info="Recorded by">01B146EA-9654-4A13-FE59-DEA17A785EFE</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/62F0D451-706A-4C97-8F38-EEB486E1B6C8">
+            <oc:name>5_1</oc:name>
+            <oc:id>62F0D451-706A-4C97-8F38-EEB486E1B6C8</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/1-499-gridded/5_1.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/9D6AC522-62EB-479F-69BE-3008C08A7B8F">
+            <oc:name>5_2</oc:name>
+            <oc:id>9D6AC522-62EB-479F-69BE-3008C08A7B8F</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/1-499-gridded/5_2.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/7D44CE83-648E-4F43-0DFF-B9A2007CBD1F">
+            <oc:name>5_3a</oc:name>
+            <oc:id>7D44CE83-648E-4F43-0DFF-B9A2007CBD1F</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/1-499-gridded/5_3a.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/70618302-BE7A-45CD-3659-D37D9BC9DEED">
+            <oc:name>5_3b</oc:name>
+            <oc:id>70618302-BE7A-45CD-3659-D37D9BC9DEED</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/1-499-gridded/5_3b.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/81D6C1D1-7325-473F-F9FF-A88813606D02">
+            <oc:name>5_3c</oc:name>
+            <oc:id>81D6C1D1-7325-473F-F9FF-A88813606D02</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/1-499-gridded/5_3c.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/D8C85C09-0EC5-4501-D2F9-21E2B7439E4F">
+            <oc:name>5_3d</oc:name>
+            <oc:id>D8C85C09-0EC5-4501-D2F9-21E2B7439E4F</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/1-499-gridded/5_3d.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/8182764B-27DB-4AC9-92B5-F4E59F347860">
+            <oc:name>5_3e</oc:name>
+            <oc:id>8182764B-27DB-4AC9-92B5-F4E59F347860</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/1-499-gridded/5_3e.jpg</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/01B146EA-9654-4A13-FE59-DEA17A785EFE" cite="contributor">
+            <oc:name>David K. Pettegrew</oc:name>
+            <oc:id>01B146EA-9654-4A13-FE59-DEA17A785EFE</oc:id>
+            <oc:relation>Recorded by</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <div>
+<p>This records information collected by field teams for each survey given unit. This information includes the number of different artifact classes (pottery, tile, stone, other) counted in each fieldwalker's transects, which provides the total count and density for the unit. It also includes environmental features of the unit (vegetation, soil, etc.) and the logistics of collection (date, time, location, etc.). We recorded the information on paper forms in the field at the time of survey and subsequently keyed the data into a Microsoft Access database, which we linked to a GIS plot of the survey units. We scanned the paper forms and archived a copy of the physical forms at the University of North Dakota.</p>
+</div>
+            </div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/67D9F00D-14E6-4A1B-3A61-EC92FC774098">
+        <oc:name>Cyprus</oc:name>
+        <oc:id>67D9F00D-14E6-4A1B-3A61-EC92FC774098</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953">
+        <oc:name>PKAP Survey Area</oc:name>
+        <oc:id>48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/6EC56A96-97CB-4FCB-B92A-3B47FCEC9BEF">
+        <oc:name>Koutsopetria - Paleokastro</oc:name>
+        <oc:id>6EC56A96-97CB-4FCB-B92A-3B47FCEC9BEF</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/C3199B69-169E-40BF-B2B7-C1FFF577A705">
+        <oc:name>Batch 1</oc:name>
+        <oc:id>C3199B69-169E-40BF-B2B7-C1FFF577A705</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/64D58746-F5CC-433A-BA10-0E27BCEF3ACF">
+        <oc:name>Batch 2</oc:name>
+        <oc:id>64D58746-F5CC-433A-BA10-0E27BCEF3ACF</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5B5AFBE1-F602-4C3B-99BF-D2B64A2FAE2E">
+        <oc:name>Batch 3</oc:name>
+        <oc:id>5B5AFBE1-F602-4C3B-99BF-D2B64A2FAE2E</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A5BE4B58-D16E-4718-81AD-13CF8E5B5E6A">
+        <oc:name>Batch 4</oc:name>
+        <oc:id>A5BE4B58-D16E-4718-81AD-13CF8E5B5E6A</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B8B2065D-ABE7-40E1-327E-F0C283440F1F">
+        <oc:name>Batch 5</oc:name>
+        <oc:id>B8B2065D-ABE7-40E1-327E-F0C283440F1F</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0CA0B180-482B-42AE-DCC0-48D1E45D55A5">
+        <oc:name>Batch 6</oc:name>
+        <oc:id>0CA0B180-482B-42AE-DCC0-48D1E45D55A5</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3BC8210B-DF18-42F0-C594-72998E17C604">
+        <oc:name>Batch 7</oc:name>
+        <oc:id>3BC8210B-DF18-42F0-C594-72998E17C604</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2E31249A-C980-44F7-F5A0-419B21367D09">
+        <oc:name>Batch 8</oc:name>
+        <oc:id>2E31249A-C980-44F7-F5A0-419B21367D09</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1F0F4912-9192-43D4-2506-F631240DB2FE">
+        <oc:name>Batch 9</oc:name>
+        <oc:id>1F0F4912-9192-43D4-2506-F631240DB2FE</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4C3F2FC7-3891-445A-E9EB-E9E700563ADD">
+        <oc:name>Batch 10</oc:name>
+        <oc:id>4C3F2FC7-3891-445A-E9EB-E9E700563ADD</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2F059CCD-25B1-41BA-F3D0-55E1E2EEC419">
+        <oc:name>Batch 11</oc:name>
+        <oc:id>2F059CCD-25B1-41BA-F3D0-55E1E2EEC419</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/02BF970B-84DF-48DF-6305-3FF3FB6195AD">
+        <oc:name>Batch 12</oc:name>
+        <oc:id>02BF970B-84DF-48DF-6305-3FF3FB6195AD</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/51BA6ACF-351B-4222-902F-C872E94D05EA">
+        <oc:name>Batch 13</oc:name>
+        <oc:id>51BA6ACF-351B-4222-902F-C872E94D05EA</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/75A56C12-798E-4161-C89D-A321C5A0AE0E">
+        <oc:name>Batch 14</oc:name>
+        <oc:id>75A56C12-798E-4161-C89D-A321C5A0AE0E</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5258D98C-6FED-4136-4296-D14A2F96B9C9">
+        <oc:name>Batch 15</oc:name>
+        <oc:id>5258D98C-6FED-4136-4296-D14A2F96B9C9</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/743ABA4D-59C0-4A2D-93D0-DA6CED00DCFC">
+        <oc:name>Batch 16</oc:name>
+        <oc:id>743ABA4D-59C0-4A2D-93D0-DA6CED00DCFC</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1F637FEC-D9BE-4E86-6A70-9AA2D86E9719">
+        <oc:name>Batch 17</oc:name>
+        <oc:id>1F637FEC-D9BE-4E86-6A70-9AA2D86E9719</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1065DB0E-FBF1-4D9C-D257-A5DA24E3357F">
+        <oc:name>Batch 18</oc:name>
+        <oc:id>1065DB0E-FBF1-4D9C-D257-A5DA24E3357F</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5AAEB741-1A87-4C7E-FFCA-FF745EF1B397">
+        <oc:name>Batch 19</oc:name>
+        <oc:id>5AAEB741-1A87-4C7E-FFCA-FF745EF1B397</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8C1D3743-AF61-4BEF-38DE-D0D7C18FC54A">
+        <oc:name>Batch 20</oc:name>
+        <oc:id>8C1D3743-AF61-4BEF-38DE-D0D7C18FC54A</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2CD46A1F-4AC4-4AA8-4D3F-4E8C21655F0F">
+        <oc:name>Batch 21</oc:name>
+        <oc:id>2CD46A1F-4AC4-4AA8-4D3F-4E8C21655F0F</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7C6B42D7-43B3-44DF-7887-36A3441EE735">
+        <oc:name>Batch 22</oc:name>
+        <oc:id>7C6B42D7-43B3-44DF-7887-36A3441EE735</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3818F6EA-AFB6-40C9-D339-4920EB27063F">
+        <oc:name>Batch 23</oc:name>
+        <oc:id>3818F6EA-AFB6-40C9-D339-4920EB27063F</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3B6D5075-59AD-40A3-50FF-B4832D426FD7">
+        <oc:name>Batch 24</oc:name>
+        <oc:id>3B6D5075-59AD-40A3-50FF-B4832D426FD7</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B4D7414F-11BF-453A-437C-0BD163961E66">
+        <oc:name>Batch 25</oc:name>
+        <oc:id>B4D7414F-11BF-453A-437C-0BD163961E66</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/10AB16EA-3011-4130-0E4E-0E3504C21D14">
+        <oc:name>Batch 26</oc:name>
+        <oc:id>10AB16EA-3011-4130-0E4E-0E3504C21D14</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2ACC0471-D50B-458A-A68B-5AE4D28D79EA">
+        <oc:name>Batch 27</oc:name>
+        <oc:id>2ACC0471-D50B-458A-A68B-5AE4D28D79EA</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EAD45533-6DD5-4FAF-BBDF-B88D928DC609">
+        <oc:name>Batch 28</oc:name>
+        <oc:id>EAD45533-6DD5-4FAF-BBDF-B88D928DC609</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3D9913D9-53C0-42E4-8858-20C9352F8B41">
+        <oc:name>Batch 29</oc:name>
+        <oc:id>3D9913D9-53C0-42E4-8858-20C9352F8B41</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3ECCDA28-3D9D-4D95-278F-1DEF0EE6EB05">
+        <oc:name>Batch 30</oc:name>
+        <oc:id>3ECCDA28-3D9D-4D95-278F-1DEF0EE6EB05</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D9EFBECE-4782-4C12-2882-F8FA7454A4CA">
+        <oc:name>Batch 31</oc:name>
+        <oc:id>D9EFBECE-4782-4C12-2882-F8FA7454A4CA</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D2D9600A-7EAD-431F-E560-96A6BFCC51D6">
+        <oc:name>Batch 32</oc:name>
+        <oc:id>D2D9600A-7EAD-431F-E560-96A6BFCC51D6</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A6BE4353-D974-40CB-2164-B62EE9A0CB42">
+        <oc:name>Batch 33</oc:name>
+        <oc:id>A6BE4353-D974-40CB-2164-B62EE9A0CB42</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C6424D59-579E-4C58-0E85-E33D33A3FBDB">
+        <oc:name>Batch 34</oc:name>
+        <oc:id>C6424D59-579E-4C58-0E85-E33D33A3FBDB</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/860BE2A7-AACC-4228-AD09-8F1B11A8423E">
+        <oc:name>Batch 35</oc:name>
+        <oc:id>860BE2A7-AACC-4228-AD09-8F1B11A8423E</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3E1A162C-59C4-48A0-F0AD-CFF4C6B58A6C">
+        <oc:name>Batch 36</oc:name>
+        <oc:id>3E1A162C-59C4-48A0-F0AD-CFF4C6B58A6C</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Pyla-Koutsopetria Archaeological Project: Unit 5 (Survey Unit)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-10-25</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>survey</dc:subject>
+    <dc:subject>Cyprus</dc:subject>
+    <dc:subject>classical</dc:subject>
+    <dc:subject>Cypriot</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Hellenistic</dc:subject>
+    <dc:subject>Bronze Age</dc:subject>
+    <dc:subject>landscape</dc:subject>
+    <dc:subject>settlment</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/01B146EA-9654-4A13-FE59-DEA17A785EFE">David K. Pettegrew</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/8C74D664-03DC-43C1-64EC-2FFC019FCB26">William R. Caraher</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/DAD5462C-3440-4DAC-E4BE-DD5AEDC1B4DC</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2">Pyla-Koutsopetria Archaeological Project</oc:project_name>
+    <oc:pub_date>2013-10-25T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Pyla-Koutsopetria+Archaeological+Project%3A+Unit+5+%28Survey+Unit%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=survey&amp;rft.subject=Cyprus&amp;rft.subject=classical&amp;rft.subject=Cypriot&amp;rft.subject=Roman&amp;rft.subject=Hellenistic&amp;rft.subject=Bronze+Age&amp;rft.subject=landscape&amp;rft.subject=settlment&amp;rft.contributor=David+K.+Pettegrew&amp;rft.creator=William+R.+Caraher&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FDAD5462C-3440-4DAC-E4BE-DD5AEDC1B4DC</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>34.981799784613</oc:geo_lat>
+      <oc:geo_long>33.707753848044</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/DAD5462C-3440-4DAC-E4BE-DD5AEDC1B4DC">
+        <oc:source_name>Unit 5</oc:source_name>
+        <oc:source_id>DAD5462C-3440-4DAC-E4BE-DD5AEDC1B4DC</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-11-05T07:54:09-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/11/05 07:54:09</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

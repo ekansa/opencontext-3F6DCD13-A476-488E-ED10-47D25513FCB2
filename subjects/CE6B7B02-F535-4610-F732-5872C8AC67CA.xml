@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="CE6B7B02-F535-4610-F732-5872C8AC67CA" ownedBy="3F6DCD13-A476-488E-ED10-47D25513FCB2">
+  <arch:name>
+    <arch:string>Batch 5</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Sample</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_4_7ce15a2ae</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>324876FE-3B5A-4642-36AB-1AB50C705B3C</arch:variableID>
+          <arch:integer>1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/F285D93B-1EA6-43E8-2B6C-280C258B0013">F285D93B-1EA6-43E8-2B6C-280C258B0013</oc:propid>
+          <oc:var_label type="integer">Reader Number</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FA83EA22-4662-43C8-5FEB-3880EADF6BD6</arch:variableID>
+          <arch:integer>1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/9E6664D1-2935-4DD2-73CA-D73EF954F3A0">9E6664D1-2935-4DD2-73CA-D73EF954F3A0</oc:propid>
+          <oc:var_label type="integer">Quantity</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DA7F086A-6570-4F6A-8E63-5BEEE5FBBDF8</arch:variableID>
+          <arch:integer>23</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/AE65C38D-4D2A-46CD-5CFE-692FD672EC5E">AE65C38D-4D2A-46CD-5CFE-692FD672EC5E</oc:propid>
+          <oc:var_label type="integer">Weight</oc:var_label>
+          <oc:show_val>23</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>076A9D4F-F2C4-40ED-D60D-B2551F1D0BB9</arch:variableID>
+          <arch:valueID>D5F78CA4-C486-4168-E5B6-9A08AB6FDAE9</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DD3AD205-A8F2-41A6-FFC6-11F6195BDAF0">DD3AD205-A8F2-41A6-FFC6-11F6195BDAF0</oc:propid>
+          <oc:var_label type="calendric">Date Read</oc:var_label>
+          <oc:show_val>2005-07-15</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>613333C0-7210-44A3-4532-C282C868BA0D</arch:variableID>
+          <arch:valueID>857D747F-7993-4AB1-BC4E-4BD437116EDD</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7D21EAF8-5AD4-4E75-9970-0F742DE01C74">7D21EAF8-5AD4-4E75-9970-0F742DE01C74</oc:propid>
+          <oc:var_label type="nominal">Extant Part</oc:var_label>
+          <oc:show_val>edge</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>931B8256-5B94-4C85-82A5-FE3C3B4DF38B</arch:variableID>
+          <arch:valueID>F91107C6-8447-400D-8A90-0BA278E5ABFB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/148EFF05-2B7E-4070-98A8-6CFCBE53CADF">148EFF05-2B7E-4070-98A8-6CFCBE53CADF</oc:propid>
+          <oc:var_label type="nominal">Find Color</oc:var_label>
+          <oc:show_val>yellow</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>13D92295-65EA-47F7-EBF2-56C7667C6E5F</arch:variableID>
+          <arch:valueID>2E2DDA78-9392-4E73-B728-633893038389</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2E9B9155-94FA-4916-B1C4-FE2E71FBFFEA">2E9B9155-94FA-4916-B1C4-FE2E71FBFFEA</oc:propid>
+          <oc:var_label type="alphanumeric">Chronotype</oc:var_label>
+          <oc:show_val>Tile, Kopetra Corinthian Pan Roman Late</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7DB504E6-09E3-4151-1650-5F8A1D09E94F</arch:variableID>
+          <arch:valueID>3A3C4221-AC99-4AB9-4F3B-FA9DAE6F14B3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9992548D-F1D5-4FB5-0C8A-CE21BE3CF676">9992548D-F1D5-4FB5-0C8A-CE21BE3CF676</oc:propid>
+          <oc:var_label type="nominal">Material</oc:var_label>
+          <oc:show_val>pottery</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="7DB504E6-09E3-4151-1650-5F8A1D09E94F" href=" http://www.cidoc-crm.org/rdfs/cidoc-crm#P45F.consists_">
+              <oc:vocabulary href=""/>
+              <oc:label>Consists of</oc:label>
+              <oc:targetLink localType="property" localID="9992548D-F1D5-4FB5-0C8A-CE21BE3CF676" localURI="http://opencontext.org/properties/9992548D-F1D5-4FB5-0C8A-CE21BE3CF676" href="http://collection.britishmuseum.org/id/thesauri/x11519">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>pottery</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>423BA1EC-3CD4-4DBA-40EB-9474C1AE0D3A</arch:variableID>
+          <arch:valueID>13B98C8A-5B45-4831-4FCC-9AB0D6CC255C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/35EA2F7E-EA96-4101-21A3-BFD6F790D921">35EA2F7E-EA96-4101-21A3-BFD6F790D921</oc:propid>
+          <oc:var_label type="nominal">Fabric group</oc:var_label>
+          <oc:show_val>tile</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="423BA1EC-3CD4-4DBA-40EB-9474C1AE0D3A" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P2.has_type">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Has type</oc:label>
+              <oc:targetLink localType="property" localID="35EA2F7E-EA96-4101-21A3-BFD6F790D921" localURI="http://opencontext.org/properties/35EA2F7E-EA96-4101-21A3-BFD6F790D921" href="http://collection.britishmuseum.org/id/thesauri/x9623">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>tile</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0B643AB9-38A4-4F45-0E41-415C45CB7702</arch:variableID>
+          <arch:valueID>CED59C09-B4CE-4266-A984-B927006DCBB4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B7B0F27F-EE67-4AA3-ADDC-6C0B06A9C11F">B7B0F27F-EE67-4AA3-ADDC-6C0B06A9C11F</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>Roman, Late</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>86910B06-0743-4CE9-0882-D9E6ADE3C342</arch:variableID>
+          <arch:valueID>0FEE5A3C-4DCB-4EEC-0014-1B3F88337B90</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/79756023-D194-48B7-715E-E44EE544F0B3">79756023-D194-48B7-715E-E44EE544F0B3</oc:propid>
+          <oc:var_label type="alphanumeric">Un</oc:var_label>
+          <oc:show_val>2_5_1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E9F6D21E-077D-44F4-D346-0F69F2D0CB5D</arch:variableID>
+          <arch:valueID>4F526029-A462-46A6-CCCD-71D73C64321D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1DA10FEE-B704-4785-9210-710BDA53FAF7">1DA10FEE-B704-4785-9210-710BDA53FAF7</oc:propid>
+          <oc:var_label type="nominal">Collection Type</oc:var_label>
+          <oc:show_val>Survey</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EA35E745-4237-428E-B38E-3598EF1BBA2A</arch:variableID>
+          <arch:integer>300</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/6AD7702C-26E1-4B14-68D9-F43785BD07DA">6AD7702C-26E1-4B14-68D9-F43785BD07DA</oc:propid>
+          <oc:var_label type="integer">Start date</oc:var_label>
+          <oc:show_val>300</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A9AA03E7-7B85-469B-2643-4B8F3D8520FD</arch:variableID>
+          <arch:integer>749</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/B85A9351-A002-4923-BF06-B6259F93FF4D">B85A9351-A002-4923-BF06-B6259F93FF4D</oc:propid>
+          <oc:var_label type="integer">End date</oc:var_label>
+          <oc:show_val>749</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C6BAB013-B7A3-46EB-500B-65F9DAC5ABD9</arch:variableID>
+          <arch:integer>449</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/910015D5-315F-4C9B-22BD-F195BA28B259">910015D5-315F-4C9B-22BD-F195BA28B259</oc:propid>
+          <oc:var_label type="integer">Duration</oc:var_label>
+          <oc:show_val>449</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Recorded by">C6F7A46C-EA79-4000-D67D-B686F6CFFDA9</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/C6F7A46C-EA79-4000-D67D-B686F6CFFDA9" cite="contributor">
+            <oc:name>R. Scott Moore</oc:name>
+            <oc:id>C6F7A46C-EA79-4000-D67D-B686F6CFFDA9</oc:id>
+            <oc:relation>Recorded by</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <div>
+<p>This record came from the <em>MasterFindsSurveyMay2013Dates</em> table of the source Access database. That table contained records about the identification and description of artifacts documented by ceramicists during analysis. Using the chronotype system, the ceramicist first divided the sherds into batches. </p>
+<p> A "batch" denotes a group of similar artifacts from a survey unit that shares the same chronotype, fabric, color, surface treatment / decoration, and vessel part to one another. A single batch, for example, could consist of four buff Late Roman 1 amphora handles. Red handles of the same shape and chronotype would be separated into their own batch as would buff rims from the same amphora chronotype. During analysis, ceramicists assigned the artifacts to batches of chronotypes that were as specific as possible. They then described, counted, and weighed each batch, recording the information on paper forms. We subsequently keyed these forms into a Microsoft Access database, and scanned and archived the paper copy at the University of North Dakota.</p>
+</div>
+            </div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/67D9F00D-14E6-4A1B-3A61-EC92FC774098">
+        <oc:name>Cyprus</oc:name>
+        <oc:id>67D9F00D-14E6-4A1B-3A61-EC92FC774098</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953">
+        <oc:name>PKAP Survey Area</oc:name>
+        <oc:id>48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/6EC56A96-97CB-4FCB-B92A-3B47FCEC9BEF">
+        <oc:name>Koutsopetria - Paleokastro</oc:name>
+        <oc:id>6EC56A96-97CB-4FCB-B92A-3B47FCEC9BEF</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/BC83E0E5-7CE7-426D-C8D8-53DF5BB30D2E">
+        <oc:name>Unit 2</oc:name>
+        <oc:id>BC83E0E5-7CE7-426D-C8D8-53DF5BB30D2E</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Pyla-Koutsopetria Archaeological Project: Batch 5 (Sample)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-10-25</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>survey</dc:subject>
+    <dc:subject>Cyprus</dc:subject>
+    <dc:subject>classical</dc:subject>
+    <dc:subject>Cypriot</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Hellenistic</dc:subject>
+    <dc:subject>Bronze Age</dc:subject>
+    <dc:subject>landscape</dc:subject>
+    <dc:subject>settlment</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/C6F7A46C-EA79-4000-D67D-B686F6CFFDA9">R. Scott Moore</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/8C74D664-03DC-43C1-64EC-2FFC019FCB26">William R. Caraher</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/CE6B7B02-F535-4610-F732-5872C8AC67CA</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2">Pyla-Koutsopetria Archaeological Project</oc:project_name>
+    <oc:pub_date>2013-10-25T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Pyla-Koutsopetria+Archaeological+Project%3A+Batch+5+%28Sample%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=survey&amp;rft.subject=Cyprus&amp;rft.subject=classical&amp;rft.subject=Cypriot&amp;rft.subject=Roman&amp;rft.subject=Hellenistic&amp;rft.subject=Bronze+Age&amp;rft.subject=landscape&amp;rft.subject=settlment&amp;rft.contributor=R.+Scott+Moore&amp;rft.creator=William+R.+Caraher&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FCE6B7B02-F535-4610-F732-5872C8AC67CA</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>34.981807363128</oc:geo_lat>
+      <oc:geo_long>33.706439194139</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/BC83E0E5-7CE7-426D-C8D8-53DF5BB30D2E">
+        <oc:source_name>Unit 2</oc:source_name>
+        <oc:source_id>BC83E0E5-7CE7-426D-C8D8-53DF5BB30D2E</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-11-05T07:58:43-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/11/05 07:58:43</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(300 CE - 749 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>300</oc:time_start>
+          <oc:time_finish>749</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/CE6B7B02-F535-4610-F732-5872C8AC67CA">
+            <oc:source_name>Batch 5</oc:source_name>
+            <oc:source_id>CE6B7B02-F535-4610-F732-5872C8AC67CA</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-11-04T10:32:48-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

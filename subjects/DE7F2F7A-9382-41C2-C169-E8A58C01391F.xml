@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="DE7F2F7A-9382-41C2-C169-E8A58C01391F" ownedBy="3F6DCD13-A476-488E-ED10-47D25513FCB2">
+  <arch:name>
+    <arch:string>Dhekeleia</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Area</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/67D9F00D-14E6-4A1B-3A61-EC92FC774098">
+        <oc:name>Cyprus</oc:name>
+        <oc:id>67D9F00D-14E6-4A1B-3A61-EC92FC774098</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953">
+        <oc:name>PKAP Survey Area</oc:name>
+        <oc:id>48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/D5D7AAF0-525E-47BB-7004-9F88C896F8E8">
+        <oc:name>Unit 213</oc:name>
+        <oc:id>D5D7AAF0-525E-47BB-7004-9F88C896F8E8</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2D0764B4-EED4-4B0F-65AC-F0CC169DBA1E">
+        <oc:name>Unit 214</oc:name>
+        <oc:id>2D0764B4-EED4-4B0F-65AC-F0CC169DBA1E</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/39BCD7C9-21AB-4D71-21B7-9CBFE8B2B785">
+        <oc:name>Unit 215</oc:name>
+        <oc:id>39BCD7C9-21AB-4D71-21B7-9CBFE8B2B785</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/12C483FC-1A96-4FA0-DC38-77763BA439FD">
+        <oc:name>Unit 216</oc:name>
+        <oc:id>12C483FC-1A96-4FA0-DC38-77763BA439FD</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8B8A2041-7790-469A-1233-4027EF43ED5E">
+        <oc:name>Unit 217</oc:name>
+        <oc:id>8B8A2041-7790-469A-1233-4027EF43ED5E</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/45B51D75-EF49-4585-5B42-A2F4DAB0346D">
+        <oc:name>Unit 218</oc:name>
+        <oc:id>45B51D75-EF49-4585-5B42-A2F4DAB0346D</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0908378A-4055-41A5-1EA2-7998FE33630A">
+        <oc:name>Unit 219</oc:name>
+        <oc:id>0908378A-4055-41A5-1EA2-7998FE33630A</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5047D27B-5310-4FCF-E41E-6F32BE0437B7">
+        <oc:name>Unit 220</oc:name>
+        <oc:id>5047D27B-5310-4FCF-E41E-6F32BE0437B7</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/53417E43-F7B9-423D-4E5C-B32FEA3F54AE">
+        <oc:name>Unit 221</oc:name>
+        <oc:id>53417E43-F7B9-423D-4E5C-B32FEA3F54AE</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D589D14E-88A6-4CD8-07BA-FBDA584427C4">
+        <oc:name>Unit 222</oc:name>
+        <oc:id>D589D14E-88A6-4CD8-07BA-FBDA584427C4</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8E773523-4391-4A86-BB6E-96733D83FA8C">
+        <oc:name>Unit 223</oc:name>
+        <oc:id>8E773523-4391-4A86-BB6E-96733D83FA8C</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/002D5E2E-645B-445E-1BDF-C526F507C34C">
+        <oc:name>Unit 224</oc:name>
+        <oc:id>002D5E2E-645B-445E-1BDF-C526F507C34C</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B0EE15A0-BF17-4ECB-6534-4247B662380B">
+        <oc:name>Unit 225</oc:name>
+        <oc:id>B0EE15A0-BF17-4ECB-6534-4247B662380B</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FD7C616E-0FB7-4B5C-4556-D25549A1CF67">
+        <oc:name>Unit 226</oc:name>
+        <oc:id>FD7C616E-0FB7-4B5C-4556-D25549A1CF67</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6B536BDE-19F9-449A-111D-D4CEE713A93F">
+        <oc:name>Unit 227</oc:name>
+        <oc:id>6B536BDE-19F9-449A-111D-D4CEE713A93F</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/38C1D75B-AAA4-40C8-E3DD-BF935F982832">
+        <oc:name>Unit 228</oc:name>
+        <oc:id>38C1D75B-AAA4-40C8-E3DD-BF935F982832</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/751C6558-94E5-45D9-7E76-9C9472A72563">
+        <oc:name>Unit 229</oc:name>
+        <oc:id>751C6558-94E5-45D9-7E76-9C9472A72563</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A7A6F2CB-01A2-4E0E-033F-6ED6562C8A8C">
+        <oc:name>Unit 230</oc:name>
+        <oc:id>A7A6F2CB-01A2-4E0E-033F-6ED6562C8A8C</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1232AF91-8AE6-4930-EA8A-35207949492A">
+        <oc:name>Unit 502</oc:name>
+        <oc:id>1232AF91-8AE6-4930-EA8A-35207949492A</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9FEA9C74-5EDF-4EA0-62D9-545197DD45F9">
+        <oc:name>Unit 503</oc:name>
+        <oc:id>9FEA9C74-5EDF-4EA0-62D9-545197DD45F9</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2975CE25-60BC-4A25-F7C0-04926F053CD1">
+        <oc:name>Unit 504</oc:name>
+        <oc:id>2975CE25-60BC-4A25-F7C0-04926F053CD1</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/17F16EAD-8197-48C0-4601-AEDF7ABBBB4C">
+        <oc:name>Unit 505</oc:name>
+        <oc:id>17F16EAD-8197-48C0-4601-AEDF7ABBBB4C</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6FE37872-20B8-48A0-BBA1-88ED5E6E5EB3">
+        <oc:name>Unit 506</oc:name>
+        <oc:id>6FE37872-20B8-48A0-BBA1-88ED5E6E5EB3</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C1C56960-0C5A-47A6-A32F-E5B22BE1AF4F">
+        <oc:name>Unit 507</oc:name>
+        <oc:id>C1C56960-0C5A-47A6-A32F-E5B22BE1AF4F</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A203A0F5-4E54-4C91-45A6-E74B10121601">
+        <oc:name>Unit 508</oc:name>
+        <oc:id>A203A0F5-4E54-4C91-45A6-E74B10121601</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/081DF5A8-0C9A-48C0-AE1E-9E17E08402AB">
+        <oc:name>Unit 509</oc:name>
+        <oc:id>081DF5A8-0C9A-48C0-AE1E-9E17E08402AB</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B58F9B51-41B3-43E1-64D8-C9CD9B4FE5BD">
+        <oc:name>Unit 510</oc:name>
+        <oc:id>B58F9B51-41B3-43E1-64D8-C9CD9B4FE5BD</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6BFF1D08-98F3-4811-0B3B-E1D093ADB2BC">
+        <oc:name>Unit 511</oc:name>
+        <oc:id>6BFF1D08-98F3-4811-0B3B-E1D093ADB2BC</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5855D39B-E833-4559-D2E3-BA42E3E3F6B0">
+        <oc:name>Unit 512</oc:name>
+        <oc:id>5855D39B-E833-4559-D2E3-BA42E3E3F6B0</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E1217D1B-A678-4D6B-1F7F-64EAB4017058">
+        <oc:name>Unit 513</oc:name>
+        <oc:id>E1217D1B-A678-4D6B-1F7F-64EAB4017058</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6870F247-59B9-4E4F-6628-D1BFA0BE5335">
+        <oc:name>Unit 514</oc:name>
+        <oc:id>6870F247-59B9-4E4F-6628-D1BFA0BE5335</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F58C8247-3F83-49C0-E7CB-8F1CCCCD0842">
+        <oc:name>Unit 515</oc:name>
+        <oc:id>F58C8247-3F83-49C0-E7CB-8F1CCCCD0842</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/19A450EB-740B-4B06-67E8-6FFA32705074">
+        <oc:name>Unit 516</oc:name>
+        <oc:id>19A450EB-740B-4B06-67E8-6FFA32705074</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F8FBC170-F66C-48BB-A83F-F4FAAD2E68F1">
+        <oc:name>Unit 517</oc:name>
+        <oc:id>F8FBC170-F66C-48BB-A83F-F4FAAD2E68F1</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EC18D4E1-85D1-4E7D-9BB9-00DC33090865">
+        <oc:name>Unit 518</oc:name>
+        <oc:id>EC18D4E1-85D1-4E7D-9BB9-00DC33090865</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D919987D-407E-48EF-39AC-EA92B6E88B7C">
+        <oc:name>Unit 519</oc:name>
+        <oc:id>D919987D-407E-48EF-39AC-EA92B6E88B7C</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4EF10A27-DEE3-47B0-D5D8-A8D8E0D24B70">
+        <oc:name>Unit 520</oc:name>
+        <oc:id>4EF10A27-DEE3-47B0-D5D8-A8D8E0D24B70</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/16FCD50C-AAB2-4CF4-3662-AC883472E9EE">
+        <oc:name>Unit 521</oc:name>
+        <oc:id>16FCD50C-AAB2-4CF4-3662-AC883472E9EE</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6EE80DE7-4A43-46ED-1ADC-3BB7786A7DB6">
+        <oc:name>Unit 522</oc:name>
+        <oc:id>6EE80DE7-4A43-46ED-1ADC-3BB7786A7DB6</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5E5C1D8A-2180-4BE1-ECFC-6585047DF0E5">
+        <oc:name>Unit 523</oc:name>
+        <oc:id>5E5C1D8A-2180-4BE1-ECFC-6585047DF0E5</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EFB9D270-B184-4398-2669-7D1806144C28">
+        <oc:name>Unit 524</oc:name>
+        <oc:id>EFB9D270-B184-4398-2669-7D1806144C28</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/209075DF-6854-4082-444C-B5246391632A">
+        <oc:name>Unit 525</oc:name>
+        <oc:id>209075DF-6854-4082-444C-B5246391632A</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/52C9BB9B-DDE6-48CC-A49A-D3373E4DBECE">
+        <oc:name>Unit 526</oc:name>
+        <oc:id>52C9BB9B-DDE6-48CC-A49A-D3373E4DBECE</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A5E65D72-DA7B-43A4-14B4-3D0E0CB4201C">
+        <oc:name>Unit 527</oc:name>
+        <oc:id>A5E65D72-DA7B-43A4-14B4-3D0E0CB4201C</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E13B38C9-BDCF-4416-01CA-48CFD9B50600">
+        <oc:name>Unit 528</oc:name>
+        <oc:id>E13B38C9-BDCF-4416-01CA-48CFD9B50600</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2FB7A470-E005-4718-BD96-9AC939EAF52F">
+        <oc:name>Unit 529</oc:name>
+        <oc:id>2FB7A470-E005-4718-BD96-9AC939EAF52F</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/31574FE9-B1F7-4C93-CC8A-988867F830DE">
+        <oc:name>Unit 530</oc:name>
+        <oc:id>31574FE9-B1F7-4C93-CC8A-988867F830DE</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/109332AD-C42B-4151-7395-6962649592D3">
+        <oc:name>Unit 531</oc:name>
+        <oc:id>109332AD-C42B-4151-7395-6962649592D3</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2EA2A5E0-B327-4497-E50F-404CB5919DA6">
+        <oc:name>Unit 532</oc:name>
+        <oc:id>2EA2A5E0-B327-4497-E50F-404CB5919DA6</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/47CDBF1E-A914-4880-C975-DA8173F8A07E">
+        <oc:name>Unit 533</oc:name>
+        <oc:id>47CDBF1E-A914-4880-C975-DA8173F8A07E</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A5FC179E-6DE2-4630-06B5-2ED177843017">
+        <oc:name>Unit 534</oc:name>
+        <oc:id>A5FC179E-6DE2-4630-06B5-2ED177843017</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C044EE14-B4F0-4ECE-E712-F8B6212B7F3A">
+        <oc:name>Unit 535</oc:name>
+        <oc:id>C044EE14-B4F0-4ECE-E712-F8B6212B7F3A</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9BEDC3A8-D555-4316-D66F-01D2152B2B5C">
+        <oc:name>Unit 536</oc:name>
+        <oc:id>9BEDC3A8-D555-4316-D66F-01D2152B2B5C</oc:id>
+        <oc:item_class>
+          <oc:name>Survey Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Pyla-Koutsopetria Archaeological Project: Dhekeleia (Area)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-10-25</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>survey</dc:subject>
+    <dc:subject>Cyprus</dc:subject>
+    <dc:subject>classical</dc:subject>
+    <dc:subject>Cypriot</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Hellenistic</dc:subject>
+    <dc:subject>Bronze Age</dc:subject>
+    <dc:subject>landscape</dc:subject>
+    <dc:subject>settlment</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/8C74D664-03DC-43C1-64EC-2FFC019FCB26">William R. Caraher</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/DE7F2F7A-9382-41C2-C169-E8A58C01391F</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2">Pyla-Koutsopetria Archaeological Project</oc:project_name>
+    <oc:pub_date>2013-10-25T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Pyla-Koutsopetria+Archaeological+Project%3A+Dhekeleia+%28Area%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=survey&amp;rft.subject=Cyprus&amp;rft.subject=classical&amp;rft.subject=Cypriot&amp;rft.subject=Roman&amp;rft.subject=Hellenistic&amp;rft.subject=Bronze+Age&amp;rft.subject=landscape&amp;rft.subject=settlment&amp;rft.creator=William+R.+Caraher&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FDE7F2F7A-9382-41C2-C169-E8A58C01391F</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat/>
+      <oc:geo_long/>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/DE7F2F7A-9382-41C2-C169-E8A58C01391F">
+        <oc:source_name/>
+        <oc:source_id>DE7F2F7A-9382-41C2-C169-E8A58C01391F</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-11-05T07:57:25-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/11/05 07:57:25</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

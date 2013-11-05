@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="3F6DCD13-A476-488E-ED10-47D25513FCB2" ownedBy="3F6DCD13-A476-488E-ED10-47D25513FCB2">
+  <arch:name>
+    <arch:string>Pyla-Koutsopetria Archaeological Project</arch:string>
+  </arch:name>
+  <oc:manage_info>
+    <oc:queryVal>Pyla-Koutsopetria+Archaeological+Project</oc:queryVal>
+    <oc:rootPath>/Cyprus</oc:rootPath>
+    <oc:spaceCount>0</oc:spaceCount>
+    <oc:mediaCount>0</oc:mediaCount>
+    <oc:diaryCount>0</oc:diaryCount>
+    <oc:projGeoPoint> </oc:projGeoPoint>
+  </oc:manage_info>
+  <arch:links>
+    <arch:docID type="person" info="Project Participant">8C74D664-03DC-43C1-64EC-2FFC019FCB26</arch:docID>
+    <arch:docID type="person" info="Project Participant">1E1BE183-A18D-4EFE-C72A-38C956B4A05C</arch:docID>
+    <arch:docID type="person" info="Project Participant">01B146EA-9654-4A13-FE59-DEA17A785EFE</arch:docID>
+    <arch:docID type="person" info="Project Participant">072DFD5A-3A07-4E99-E248-8C86F64B57D5</arch:docID>
+    <arch:docID type="person" info="Project Participant">7A1C4FDE-1B18-4651-29CF-71FE062151FF</arch:docID>
+    <arch:docID type="person" info="Project Participant">C6F7A46C-EA79-4000-D67D-B686F6CFFDA9</arch:docID>
+    <arch:docID type="person" info="Project Participant">5ABEEEF8-DFB2-46AB-88CF-2EBC6E140E68</arch:docID>
+    <arch:docID type="person" info="Project Participant">EC5BEAC0-37A6-4B90-90CA-DCD25C732DBD</arch:docID>
+    <oc:person_links>
+      <oc:link href="http://opencontext.org/persons/8C74D664-03DC-43C1-64EC-2FFC019FCB26">
+        <oc:name>William R. Caraher</oc:name>
+        <oc:id>8C74D664-03DC-43C1-64EC-2FFC019FCB26</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/1E1BE183-A18D-4EFE-C72A-38C956B4A05C">
+        <oc:name>Brandon Olson</oc:name>
+        <oc:id>1E1BE183-A18D-4EFE-C72A-38C956B4A05C</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/01B146EA-9654-4A13-FE59-DEA17A785EFE">
+        <oc:name>David K. Pettegrew</oc:name>
+        <oc:id>01B146EA-9654-4A13-FE59-DEA17A785EFE</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/072DFD5A-3A07-4E99-E248-8C86F64B57D5">
+        <oc:name>Dimitri Nakassis</oc:name>
+        <oc:id>072DFD5A-3A07-4E99-E248-8C86F64B57D5</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/7A1C4FDE-1B18-4651-29CF-71FE062151FF">
+        <oc:name>Matt Dalkton</oc:name>
+        <oc:id>7A1C4FDE-1B18-4651-29CF-71FE062151FF</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/C6F7A46C-EA79-4000-D67D-B686F6CFFDA9">
+        <oc:name>R. Scott Moore</oc:name>
+        <oc:id>C6F7A46C-EA79-4000-D67D-B686F6CFFDA9</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/5ABEEEF8-DFB2-46AB-88CF-2EBC6E140E68">
+        <oc:name>Mara Horowitz</oc:name>
+        <oc:id>5ABEEEF8-DFB2-46AB-88CF-2EBC6E140E68</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/EC5BEAC0-37A6-4B90-90CA-DCD25C732DBD">
+        <oc:name>P. Nick Kardulias</oc:name>
+        <oc:id>EC5BEAC0-37A6-4B90-90CA-DCD25C732DBD</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+    </oc:person_links>
+  </arch:links>
+  <arch:notes>
+    <arch:note type="short_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">Pedestrian survey, geophysical prospecting, and excavation near Pyla, on the southern coast of Cyprus</div>
+      </arch:string>
+    </arch:note>
+    <arch:note type="long_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">    <div>
+        
+        <p>The dataset collected by the Pyla-Koutsopetria Archaeological Project (PKAP) documents fieldwork that began in the summer of 2004 near the modern village of Pyla on the southern coast of Cyprus. Over seven field seasons, PKAP teams documented the coastal zone of Pyla using a combination of intensive pedestrian survey, geophysical prospecting, and excavation. We systematically sampled 100 ha in the area, recorded hundreds of thousands of artifacts on the surface, and described hundreds of cut blocks and <em>in situ</em> architectural features. After fieldwork, we studied over 15,000 of the artifacts. We recorded the finds and features in a relational database (Microsoft Access) and plotted them on a Cyprus Land Survey 1:5000 map using Geographic Information System software (ArcGIS).
+        </p>
+        
+        <p>
+        We developed a distributional approach that would produce a high-resolution assemblage without overwhelming our logistical system. Across the coastal plain where artifact densities were highest, we chose grid units of 40 x 40 m (1,600 sq m), which were smaller than typical siteless / non-site survey units (3,000-10,000 sq m) but larger than the units used in intensive gridded collection of small sites (25-100 sq m). Across the ridges and the lower density areas of the plain, we broke with a standard grid and increased our unit size to about 5,000 sq m on average, which is more typical of distributional survey generally. In both the 1,600 sq m grid units and the larger non-gridded units, teams of four field walkers traversed the unit at 10 m intervals with each walker covering a 2 m wide swath through the unit.    
+        </p>
+        
+        <p>To sample the site for artifacts, we employed a high-resolution collection method called the "chronotype system" which other projects had employed in Cyprus and Greece with much success. The chronotype system assigns every artifact type (i.e., chronotype) to a chronological and descriptive hierarchy based on specific physical typological characteristics. Chronotypes range from the very precise (e.g., "African Red Slip Form 99 – Rim Sherd," or "Micaceous Water Jar – body sherd") to the very imprecise (e.g., "Medium Coarse body sherd – Post-Prehistoric," or "Ancient Millstone"), but are always assigned to a period, however narrow or broad. During survey near Pyla, walkers collected at least one example of each part (rim, base, handle, sherd) of each chronotype present in their transects. Especially diagnostic sherds were then pulled for cataloguing, photographing, illustrating, and publication.</p>
+        
+        <p>In addition to artifact data, fieldwalkers also recorded features in the unit (e.g., cut stone blocks and walls), as well as information to locate the unit in space or contribute to the later interpretation of artifact patterns: location and toponym, evidence of current land use (e.g., olives, wheat, and barren), vegetation cover (e.g., weeds, trees, and phrygana), vegetation height in relation to the field walker (e.g., ankle high, knee high, waist high), the condition of the soil, the surface clast composition, and surface visibility (recorded at 10% intervals). These data offer environmental contexts for assessing artifact densities across the whole of the site. </p>
+        
+        <h4>Potential Applications of the Data</h4>
+        <p>The collection from the Pyla-Koutsopetria Archaeological Project is particularly useful for researchers investigating diachronic change in Mediterranean coastal settlement throughout Antiquity and settlement patterns on Cyprus more specifically. The assemblage of Late Roman fine ware is particularly robust and important for the distribution of these high-visibility artifacts in the Eastern Mediterranean. The collection also presents important dataset for critiques of intensive pedestrian survey methods and practices in the Mediterranean.</p>
+        
+        <h4>Current Disposition of the Collections</h4>
+        <p>Approximately 20% of the collected finds are stored at the Larnaka District Archaeological Museum in Larnaka Cyprus and labelled according to unit and batch. The Elwyn B. Robinson Department of Special Collections at the Chester Fritz Library at the University of North Dakota houses paper copies of all records from the project. No complete archive of the digital records presently exists.</p>
+        
+    </div></div>
+      </arch:string>
+    </arch:note>
+  </arch:notes>
+  <oc:metadata>
+    <dc:title>Pyla-Koutsopetria Archaeological Project: (Overview)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-11-05</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>survey</dc:subject>
+    <dc:subject>Cyprus</dc:subject>
+    <dc:subject>classical</dc:subject>
+    <dc:subject>Cypriot</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Hellenistic</dc:subject>
+    <dc:subject>Bronze Age</dc:subject>
+    <dc:subject>landscape</dc:subject>
+    <dc:subject>settlment</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/8C74D664-03DC-43C1-64EC-2FFC019FCB26">William R. Caraher</dc:creator>
+    <dc:identifier>http://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2</dc:identifier>
+    <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M7B56GNS">10.6078/M7B56GNS</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2">Pyla-Koutsopetria Archaeological Project</oc:project_name>
+    <oc:pub_date>2013-11-05T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Pyla-Koutsopetria+Archaeological+Project%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=survey&amp;rft.subject=Cyprus&amp;rft.subject=classical&amp;rft.subject=Cypriot&amp;rft.subject=Roman&amp;rft.subject=Hellenistic&amp;rft.subject=Bronze+Age&amp;rft.subject=landscape&amp;rft.subject=settlment&amp;rft.creator=William+R.+Caraher&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F3F6DCD13-A476-488E-ED10-47D25513FCB2&amp;rft.identifier=DOI%3A10.6078%2FM7B56GNS</oc:coins>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+</arch:project>

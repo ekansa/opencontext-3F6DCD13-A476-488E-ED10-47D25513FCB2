@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:resource xmlns:arch="http://ochre.lib.uchicago.edu/schema/Resource/Resource.xsd" xmlns:oc="http://opencontext.org/schema/resource_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="5E363FCE-7F35-49BA-3F75-70098606E79C" ownedBy="3F6DCD13-A476-488E-ED10-47D25513FCB2" type="image">
+  <arch:name>
+    <arch:string>173_6C</arch:string>
+  </arch:name>
+  <arch:links>
+    <arch:docID type="spatialUnit" info="link">6383A5FA-7710-42B7-D706-0533143BC43F</arch:docID>
+    <oc:space_links>
+      <oc:link href="http://opencontext.org/subjects/6383A5FA-7710-42B7-D706-0533143BC43F">
+        <oc:name>Batch 6</oc:name>
+        <oc:id>6383A5FA-7710-42B7-D706-0533143BC43F</oc:id>
+        <oc:relation>link</oc:relation>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/67D9F00D-14E6-4A1B-3A61-EC92FC774098">
+              <oc:name>Cyprus</oc:name>
+              <oc:id>67D9F00D-14E6-4A1B-3A61-EC92FC774098</oc:id>
+              <oc:level>4</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953">
+              <oc:name>PKAP Survey Area</oc:name>
+              <oc:id>48FD434C-F6D3-4E4D-BF5B-C9F5EA9B0953</oc:id>
+              <oc:level>3</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/361A0441-EBF1-425F-88FF-96556C1453A0">
+              <oc:name>Water Plant</oc:name>
+              <oc:id>361A0441-EBF1-425F-88FF-96556C1453A0</oc:id>
+              <oc:level>2</oc:level>
+              <oc:item_class>
+                <oc:name>Area</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/D0447B35-8308-4603-9A84-A48D43E1FBE9">
+              <oc:name>Unit 173</oc:name>
+              <oc:id>D0447B35-8308-4603-9A84-A48D43E1FBE9</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Survey Unit</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+    </oc:space_links>
+  </arch:links>
+  <arch:content>
+    <arch:externalFileInfo>
+      <arch:fileFormat>image/jpeg</arch:fileFormat>
+      <oc:FileInfo>
+        <oc:ImageSize>8185344</oc:ImageSize>
+        <oc:FileSize ReadSize="3.81 MB">3992835</oc:FileSize>
+        <oc:FileName>173_6C.JPG</oc:FileName>
+      </oc:FileInfo>
+      <arch:resourceURI>http://artiraq.org/static/opencontext/pkap-cyprus/full/artifacts-4/173_6C.JPG</arch:resourceURI>
+      <arch:previewURI>http://artiraq.org/static/opencontext/pkap-cyprus/preview/artifacts-4/173_6C.JPG</arch:previewURI>
+      <arch:thumbnailURI>http://artiraq.org/static/opencontext/pkap-cyprus/thumbs/artifacts-4/173_6C.JPG</arch:thumbnailURI>
+    </arch:externalFileInfo>
+  </arch:content>
+  <oc:metadata>
+    <dc:title>Pyla-Koutsopetria Archaeological Project: 173_6C</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-10-25</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>survey</dc:subject>
+    <dc:subject>Cyprus</dc:subject>
+    <dc:subject>classical</dc:subject>
+    <dc:subject>Cypriot</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Hellenistic</dc:subject>
+    <dc:subject>Bronze Age</dc:subject>
+    <dc:subject>landscape</dc:subject>
+    <dc:subject>settlment</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/8C74D664-03DC-43C1-64EC-2FFC019FCB26">William R. Caraher</dc:creator>
+    <dc:identifier>http://opencontext.org/media/5E363FCE-7F35-49BA-3F75-70098606E79C</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2">Pyla-Koutsopetria Archaeological Project</oc:project_name>
+    <oc:pub_date>2013-10-25T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Pyla-Koutsopetria+Archaeological+Project%3A+173_6C&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=survey&amp;rft.subject=Cyprus&amp;rft.subject=classical&amp;rft.subject=Cypriot&amp;rft.subject=Roman&amp;rft.subject=Hellenistic&amp;rft.subject=Bronze+Age&amp;rft.subject=landscape&amp;rft.subject=settlment&amp;rft.creator=William+R.+Caraher&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fmedia%2F5E363FCE-7F35-49BA-3F75-70098606E79C</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>34.985739254327</oc:geo_lat>
+      <oc:geo_long>33.712608270709</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/D0447B35-8308-4603-9A84-A48D43E1FBE9">
+        <oc:source_name>Unit 173</oc:source_name>
+        <oc:source_id>D0447B35-8308-4603-9A84-A48D43E1FBE9</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-11-05T06:22:29-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/11/05 06:22:29</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1,050 BCE - 751 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-1050</oc:time_start>
+          <oc:time_finish>-751</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/5E363FCE-7F35-49BA-3F75-70098606E79C">
+            <oc:source_name>Batch 6</oc:source_name>
+            <oc:source_id>5E363FCE-7F35-49BA-3F75-70098606E79C</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-11-04T10:32:47-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:resource>
