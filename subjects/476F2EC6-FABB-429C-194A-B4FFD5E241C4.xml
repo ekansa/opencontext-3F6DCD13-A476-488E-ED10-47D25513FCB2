@@ -390,7 +390,7 @@
         </oc:media_links>
         <oc:person_links>
           <oc:link href="http://opencontext.org/persons/7A1C4FDE-1B18-4651-29CF-71FE062151FF" cite="contributor">
-            <oc:name>Matt Dalkton</oc:name>
+            <oc:name>Mat Dalton</oc:name>
             <oc:id>7A1C4FDE-1B18-4651-29CF-71FE062151FF</oc:id>
             <oc:relation>Recorded by</oc:relation>
           </oc:link>
@@ -535,7 +535,7 @@
   <oc:metadata>
     <dc:title>Pyla-Koutsopetria Archaeological Project: Unit 1476 (Survey Unit)</dc:title>
     <dc:publisher>Open Context</dc:publisher>
-    <dc:date>2013-10-25</dc:date>
+    <dc:date>2013-11-05</dc:date>
     <dc:subject>archaeology</dc:subject>
     <dc:subject>survey</dc:subject>
     <dc:subject>Cyprus</dc:subject>
@@ -546,12 +546,12 @@
     <dc:subject>Bronze Age</dc:subject>
     <dc:subject>landscape</dc:subject>
     <dc:subject>settlment</dc:subject>
-    <dc:contributor href="http://opencontext.org/persons/7A1C4FDE-1B18-4651-29CF-71FE062151FF">Matt Dalkton</dc:contributor>
+    <dc:contributor href="http://opencontext.org/persons/7A1C4FDE-1B18-4651-29CF-71FE062151FF">Mat Dalton</dc:contributor>
     <dc:creator href="http://opencontext.org/persons/8C74D664-03DC-43C1-64EC-2FFC019FCB26">William R. Caraher</dc:creator>
     <dc:identifier>http://opencontext.org/subjects/476F2EC6-FABB-429C-194A-B4FFD5E241C4</dc:identifier>
     <oc:project_name href="http://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2">Pyla-Koutsopetria Archaeological Project</oc:project_name>
-    <oc:pub_date>2013-10-25T00:00:00-07:00</oc:pub_date>
-    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Pyla-Koutsopetria+Archaeological+Project%3A+Unit+1476+%28Survey+Unit%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=survey&amp;rft.subject=Cyprus&amp;rft.subject=classical&amp;rft.subject=Cypriot&amp;rft.subject=Roman&amp;rft.subject=Hellenistic&amp;rft.subject=Bronze+Age&amp;rft.subject=landscape&amp;rft.subject=settlment&amp;rft.contributor=Matt+Dalkton&amp;rft.creator=William+R.+Caraher&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F476F2EC6-FABB-429C-194A-B4FFD5E241C4</oc:coins>
+    <oc:pub_date>2013-11-05T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Pyla-Koutsopetria+Archaeological+Project%3A+Unit+1476+%28Survey+Unit%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=survey&amp;rft.subject=Cyprus&amp;rft.subject=classical&amp;rft.subject=Cypriot&amp;rft.subject=Roman&amp;rft.subject=Hellenistic&amp;rft.subject=Bronze+Age&amp;rft.subject=landscape&amp;rft.subject=settlment&amp;rft.contributor=Mat+Dalton&amp;rft.creator=William+R.+Caraher&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F476F2EC6-FABB-429C-194A-B4FFD5E241C4</oc:coins>
     <oc:geo_reference>
       <oc:geo_lat>34.99199755315</oc:geo_lat>
       <oc:geo_long>33.702205951124</oc:geo_long>
@@ -568,10 +568,10 @@
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2013-11-05T07:52:01-07:00</oc:last_updated>
+    <oc:last_updated>2013-11-06T16:18:24-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2013/11/05 07:52:01</oc:view_time>
+      <oc:view_time>2013/11/06 16:18:24</oc:view_time>
     </oc:item_views>
     <oc:user_tags/>
   </oc:social_usage>
