@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="3F6DCD13-A476-488E-ED10-47D25513FCB2" ownedBy="3F6DCD13-A476-488E-ED10-47D25513FCB2">
   <arch:name>
@@ -109,6 +110,8 @@
     <dc:subject>landscape</dc:subject>
     <dc:subject>settlment</dc:subject>
     <dc:creator href="http://opencontext.org/persons/8C74D664-03DC-43C1-64EC-2FFC019FCB26">William R. Caraher</dc:creator>
+<dc:creator href="http://opencontext.org/persons/C6F7A46C-EA79-4000-D67D-B686F6CFFDA9">R. Scott Moore</dc:creator>
+<dc:creator href="http://opencontext.org/persons/01B146EA-9654-4A13-FE59-DEA17A785EFE">David K. Pettegrew</dc:creator>
     <dc:identifier>http://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2</dc:identifier>
     <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M7B56GNS">10.6078/M7B56GNS</dc:identifier>
     <oc:project_name href="http://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2">Pyla-Koutsopetria Archaeological Project</oc:project_name>
@@ -120,5 +123,6 @@
       <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
       <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
     </oc:copyright_lic>
-  </oc:metadata>
+  <oc:tableRefs><oc:link href="http://opencontext.org/tables/09c85ef2dd6784a0569fdc283a7d550c">PKAP Main Survey Unit Descriptions</oc:link><oc:link href="http://opencontext.org/tables/745df886025114d1fa7afdb464ac5ac6">PKAP Main Finds Descriptions</oc:link></oc:tableRefs></oc:metadata>
 </arch:project>
+    
